@@ -48,3 +48,4 @@ List of modules to which the MAP has contributed.
 1. Media Entity Twitter
 1. Media Entity Image
 1. Media Entity Instagram
+1. Real AES
